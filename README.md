@@ -29,11 +29,11 @@ Columns include:
 ⚙️ How to Run
 Clone the repository:
 
-bash
+```bash
 -git clone https://github.com/cloudysky01/weather-data-analysis.git
 -cd weather-data-analysis
 -jupyter notebook "Project 1.ipynb" 
-
+```
 Run each cell step by step to explore the analysis.
 
 📊 Example Insights
